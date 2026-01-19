@@ -11,4 +11,4 @@ Inter-network connectivity verification
 
 Routing protocol integration with access security
 
-Access Credentials: Documented in project README
+
